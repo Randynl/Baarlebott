@@ -1,0 +1,16 @@
+{
+  "name": "discord_bot_v14",
+  "version": "1.0.0",
+  "description": "Dit is een tes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.2.0"
+  }
+}
